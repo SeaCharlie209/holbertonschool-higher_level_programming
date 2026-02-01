@@ -1,1 +1,1 @@
-Tarea 0 SQL
+Tarea 0
